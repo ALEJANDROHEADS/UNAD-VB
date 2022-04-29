@@ -1,0 +1,91 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\UNAD\\PERIODO 16-01 2022\\VISUAL BASIC BASICO\\APLICATIVOS VBB\\UNAD-VB\\FASE4_GRUPO33\\AppWinGrp33_2019\\AppWinGrupo33\\AppWinGrupo33\\AppWinGrupo33.vbproj": {}
+  },
+  "projects": {
+    "H:\\UNAD\\PERIODO 16-01 2022\\VISUAL BASIC BASICO\\APLICATIVOS VBB\\UNAD-VB\\FASE4_GRUPO33\\AppWinGrp33_2019\\AppWinGrupo33\\AppWinGrupo33\\AppWinGrupo33.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\UNAD\\PERIODO 16-01 2022\\VISUAL BASIC BASICO\\APLICATIVOS VBB\\UNAD-VB\\FASE4_GRUPO33\\AppWinGrp33_2019\\AppWinGrupo33\\AppWinGrupo33\\AppWinGrupo33.vbproj",
+        "projectName": "AppWinGrupo33",
+        "projectPath": "H:\\UNAD\\PERIODO 16-01 2022\\VISUAL BASIC BASICO\\APLICATIVOS VBB\\UNAD-VB\\FASE4_GRUPO33\\AppWinGrp33_2019\\AppWinGrupo33\\AppWinGrupo33\\AppWinGrupo33.vbproj",
+        "packagesPath": "C:\\Users\\CE_AL\\.nuget\\packages\\",
+        "outputPath": "H:\\UNAD\\PERIODO 16-01 2022\\VISUAL BASIC BASICO\\APLICATIVOS VBB\\UNAD-VB\\FASE4_GRUPO33\\AppWinGrp33_2019\\AppWinGrupo33\\AppWinGrupo33\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CE_AL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "System.Data.OleDb": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.13, 5.0.13]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
